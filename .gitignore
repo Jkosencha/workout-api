@@ -1,0 +1,27 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Pipenv
+Pipfile.lock
+
+# SQLite database
+*.db
+server/instance/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Environment variables
+.env
+
+# pytest
+.pytest_cache/
